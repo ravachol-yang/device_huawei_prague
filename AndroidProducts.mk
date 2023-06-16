@@ -27,3 +27,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/crdroid_prague.mk \
     $(LOCAL_DIR)/full_prague.mk \
 
+COMMON_LUNCH_CHOICES := \
+    crdroid_prague-userdebug \
+    crdroid_prague-eng
