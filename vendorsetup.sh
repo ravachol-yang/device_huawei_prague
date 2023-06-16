@@ -1,3 +1,2 @@
-add_lunch_combo aosp_prague-userdebug
 add_lunch_combo crdroid_prague-userdebug
 add_lunch_combo crdroid_prague-eng
